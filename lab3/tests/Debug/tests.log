@@ -1,0 +1,28 @@
+﻿  tests.cpp
+c:\users\senny\source\repos\lab3\tests\tests.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\senny\source\repos\lab3\tests\tests.cpp(157): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\senny\source\repos\lab3\tests\tests.cpp(178): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\senny\source\repos\lab3\tests\tests.cpp(196): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\senny\source\repos\lab3\tests\tests.cpp(223): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\senny\source\repos\lab3\tests\tests.cpp(241): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\senny\source\repos\lab3\lab3\map.h(259): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  c:\users\senny\source\repos\lab3\lab3\map.h(250): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\senny\source\repos\lab3\tests\tests.cpp(53): note: выполняется компиляция ссылки на экземпляр шаблон функции "void map<std::string>::insert(char,T)"
+          with
+          [
+              T=std::string
+          ]
+  c:\users\senny\source\repos\lab3\tests\tests.cpp(50): note: выполняется компиляция ссылки на экземпляр шаблон класс "map<std::string>"
+c:\users\senny\source\repos\lab3\lab3\map.h(565): warning C4101: child: неиспользованная локальная переменная
+  c:\users\senny\source\repos\lab3\lab3\map.h(563): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\senny\source\repos\lab3\lab3\map.h(533): note: выполняется компиляция ссылки на экземпляр шаблон функции "void map<std::string>::remove(char)"
+  c:\users\senny\source\repos\lab3\lab3\map.h(175): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\senny\source\repos\lab3\lab3\map.h(317): note: выполняется компиляция ссылки на экземпляр шаблон функции "void map<std::string>::insert_case_cur_is_root(map<std::string>::node *)"
+  c:\users\senny\source\repos\lab3\lab3\map.h(162): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\senny\source\repos\lab3\tests\tests.cpp(50): note: выполняется компиляция ссылки на экземпляр шаблон функции "map<std::string>::map(void)"
+c:\users\senny\source\repos\lab3\lab3\map.h(365): warning C4101: ex: неиспользованная локальная переменная
+  c:\users\senny\source\repos\lab3\lab3\map.h(358): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\senny\source\repos\lab3\lab3\map.h(568): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool map<std::string>::contains(char)"
+  c:\users\senny\source\repos\lab3\lab3\map.h(184): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\senny\source\repos\lab3\lab3\map.h(179): note: выполняется компиляция ссылки на экземпляр шаблон функции "void map<std::string>::insert_case_prev_is_black(map<std::string>::node *)"
+  tests.vcxproj -> C:\Users\senny\source\repos\lab3\Debug\tests.dll
